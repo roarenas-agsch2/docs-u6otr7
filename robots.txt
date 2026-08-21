@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-73o9a9.salamduit.online/sitemap.xml
